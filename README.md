@@ -1,6 +1,6 @@
 # Terraform 
 
-## Getting Started with Terraform
+## 01:Getting Started with Terraform
 
 #### Introduction to Terraform and IaC
 
@@ -30,7 +30,7 @@ Take your skills up a notch by provisioning an EC2 instance on AWS using Terrafo
 
 Understand the importance of Terraform state files. Learn about desired and current states, and how Terraform manages these states to ensure infrastructure consistency.
 
-## Advanced Terraform Configuration
+## 02:Advanced Terraform Configuration
 
 #### Understanding Providers and Resources
 
@@ -48,7 +48,7 @@ Elevate your configurations with conditional expressions, adding logic to your c
 
 Master the art of debugging Terraform configurations.Plus, learn why proper formatting with terraform fmt is crucial.
 
-## Building Reusable Infrastructure with Modules
+## 03:Building Reusable Infrastructure with Modules
 
 #### Creating Modular Infrastructure with Terraform Modules
 
@@ -70,7 +70,7 @@ Utilize module outputs to access critical information or propagate data to your 
 
 Embark on a journey through the Terraform Registry. Discover pre-built, community-contributed modules and learn how to incorporate them into your own configurations.
 
-## Collaboration and State Management
+## 04:Collaboration and State Management
 
 #### Collaborating with Git and Version Control
 
@@ -92,7 +92,7 @@ Get hands-on experience configuring an S3 bucket as a backend for remote state s
 
 Dive into state locking and the prevention of concurrent updates. Implement state locking using DynamoDB as a backend mechanism, ensuring state consistency.
 
-## Provisioning and Provisioners
+## 05:Provisioning and Provisioners
 
 #### Understanding Provisioners in Terraform
 
@@ -110,7 +110,7 @@ Discover when to use provisioners during resource creation or destruction. Confi
 
 Gain insights into handling provisioner failures. Learn about retry mechanisms, timeouts, and the on_failure attribute to control provisioner behavior on failure.
 
-## Managing Environments with Workspaces
+## 06:Managing Environments with Workspaces
 
 #### Introduction to Terraform Workspaces
 
@@ -124,7 +124,7 @@ Learn how to create new workspaces and switch between them using terraform works
 
 Learn deeper into how workspaces streamline environment management. Comprehend their benefits in maintaining separate state files for various settings.
 
-## Security and Advanced Topics
+## 07:Security and Advanced Topics
 
 #### HashiCorp Vault Overview
 
